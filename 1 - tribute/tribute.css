@@ -1,0 +1,44 @@
+table {
+    /* margin-left: auto;
+    margin-right: auto; */
+    font-size: 25px;
+    height: 600px;
+    width: 50%;
+    display: inline-block;
+}
+th, td {
+    /* border: 1px solid black; */
+    /* border-collapse: collapse; */
+    border-bottom-style: solid;
+    border-bottom-color: lightgrey;
+    padding: 5px;
+    text-align: left;
+}
+q, p, a {
+    margin: auto;
+    font-family:'Pacifico', cursive;
+}
+h1 {
+    text-align: center;
+}
+.quoteContainer {
+    margin: auto;
+    width: 950px;
+    height: 550px;
+    background-color: ghostwhite;
+}
+.quote {
+    margin-top: auto;
+    padding: 225px 0;
+    text-align: center;
+    font-size: 30px;
+}
+.eventInfo {
+    background-color: ghostwhite;
+}
+.right-side {
+    background-color: green;
+    float: right;
+    height: 600px;
+    width: 50%;
+}
